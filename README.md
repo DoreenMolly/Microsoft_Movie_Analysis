@@ -37,3 +37,23 @@ Which studios produce the highest earnings?
 What are the market shares of the studios with the highest earnings?
 Is there a correlation between the earnings and market shares of the studios?
 How do the domestic earnings and foreign earnings compare?
+
+### DATA ANALYSIS & VISUALIZATION
+##### Questions I will be answering:
+
+Which genres are mostly produced in the film industry?
+Which genres have the highest rating?
+What has been the movie production trend over the years?
+Which studios produce the highest earnings?
+What are the market shares of the studios with the highest earnings?
+Is there a correlation between the earnings and market shares of the studios?
+How do the domestic earnings and foreign earnings compare?
+
+### RECOMMENDATIONS
+
+I will be sharing some recommendations to Microsoft like:
+
+To prioritize investing in the high-rated genres.
+To focus on quality over quantity; investing in high-quality content that stands out in a crowded market.
+To collaborate with companies that have high market shares to gain valuable expertise and industry connections.
+To capitalize on international audiences.
