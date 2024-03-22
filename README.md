@@ -57,3 +57,5 @@ To prioritize investing in the high-rated genres.
 To focus on quality over quantity; investing in high-quality content that stands out in a crowded market.
 To collaborate with companies that have high market shares to gain valuable expertise and industry connections.
 To capitalize on international audiences.
+
+For the full analysis view the [Jupyter](student.ipynb) or [Presentation](Microsoft Movies Analysis Presentation.pdf)
